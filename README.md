@@ -1,6 +1,6 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Thiago Gonçalves Chagas 👋
 
-Estudante de **[Seu Curso]** na **[Sua Faculdade]** ([ano previsto de formatura]), com foco em **[sua área: ex. desenvolvimento back-end / front-end / dados]**.
+Estudante de **Analise e Desenvolvimento de Sistemas (ADS)** na **PUC - Minas** (2º Semestre - 2027), com foco em **Desenvolvimento FullStack**.
 
 Gosto de [algo que te motiva: ex. transformar problemas do dia a dia em soluções simples]. Atualmente estou [ex. estudando Docker e testes automatizados / buscando estágio em desenvolvimento].
 
@@ -31,6 +31,6 @@ Gosto de [algo que te motiva: ex. transformar problemas do dia a dia em soluçõ
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-gon%C3%A7alves-chagas-68563b219/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgchagas@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://seuusuario.github.io)
